@@ -1,0 +1,26 @@
+{
+  "name": "Bulbasaur",
+  "description": "Known as the Seed Pokémon, Bulbasaur can survive for days solely on sunlight. It likes to take a nap in the sunshine. While it sleeps, the seed on its back catches the rays and uses the energy to grow.",
+  "image": "ipfs://QmaKrcfPc7ykB7hC6XPBMDNje9riKyHabKdRyBAL2xX8eA/2.png",
+  "properties": {
+    "stats": {
+      "species": "Seed Pokemon",
+      "height": "0.7m",
+      "weight": "6.9kg",
+      "hp": 45,
+      "attack": 49,
+      "defense": 49
+    },
+    "attacks": {
+      "Vine Whip": {
+        "damage": 45
+      },
+      "Razor Leaf": {
+        "damage": 55
+      },
+      "Take Down": {
+        "damage": 90
+      }
+    }
+  }
+}

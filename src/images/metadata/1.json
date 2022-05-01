@@ -1,0 +1,27 @@
+{
+  "name": "Pikachu",
+  "description": "Pikachu are small, mouse-like Pokémon that have short, yellow fur with brown markings covering their backs and parts of their tails. They have black-tipped, pointy ears and red circles on their cheeks, which are said to contain electrical sacs. Their tails are shaped in the form of a lightning bolt.",
+  "image": "ipfs://QmaKrcfPc7ykB7hC6XPBMDNje9riKyHabKdRyBAL2xX8eA/1.png",
+
+  "properties": {
+    "stats": {
+      "species": "Mouse Pokemon",
+      "height": "0.4m",
+      "weight": "6kg",
+      "hp": 35,
+      "attack": 55,
+      "defense": 40
+    },
+    "attacks": {
+      "Quick Attack": {
+        "damage": 40
+      },
+      "Thunder Shock": {
+        "damage": 60
+      },
+      "Spark": {
+        "damage": 90
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Squirtle",
+  "description": "Squirtle, known as the Tiny Turtle Pokémon, are turtle Pokémon with large eyes and chubby cheeks, capable of moving either on two feet or on all fours. Their skin is a light blue, and they possess a long, curled tail. When feeling threatened, Squirtle withdraw their limbs into their brown-orange shells and spray water from their mouth with great force, either to attack their opponent or merely to intimidate it.",
+  "image": "ipfs://QmaKrcfPc7ykB7hC6XPBMDNje9riKyHabKdRyBAL2xX8eA/5.png",
+  "properties": {
+    "stats": {
+      "species": "Tiny Turtle Pokemon",
+      "height": "0.5m",
+      "weight": "9.0kg",
+      "hp": 44,
+      "attack": 48,
+      "defense": 65
+    },
+    "attacks": {
+      "Water Gun": {
+        "damage": 40
+      },
+      "Water Pulse": {
+        "damage": 60
+      },
+      "Bite": {
+        "damage": 60
+      }
+    }
+  }
+}

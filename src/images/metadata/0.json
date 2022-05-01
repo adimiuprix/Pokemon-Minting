@@ -1,0 +1,26 @@
+{
+  "name": "Charmander",
+  "description": "Charmander is a small, bipedal, dinosaur like Pokémon. Most of its body is colored orange, while its underbelly is a light yellow color. Charmander, along with all of its evolved forms, has a flame that is constantly burning on the end of its tail.",
+  "image": "ipfs://QmaKrcfPc7ykB7hC6XPBMDNje9riKyHabKdRyBAL2xX8eA/0.png",
+  "properties": {
+    "stats": {
+      "species": "Lizard Pokemon",
+      "height": "0.6m",
+      "weight": "8.5kg",
+      "hp": 39,
+      "attack": 52,
+      "defense": 43
+    },
+    "attacks": {
+      "Scratch": {
+        "damage": 40
+      },
+      "Ember": {
+        "damage": 70
+      },
+      "Dragon Breath": {
+        "damage": 80
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Evee",
+  "description": "Eevee is said to have an irregularly-shaped genetic structure, enabling it to evolve into multiple Pokémon. As Gigantamax Eevee, its body becomes larger. The fur collar grows longer and fluffier with several triangular furs pointing straight up. The right ear has three red clouds surrounding it like a circle.",
+  "image": "ipfs://QmaKrcfPc7ykB7hC6XPBMDNje9riKyHabKdRyBAL2xX8eA/3.png",
+  "properties": {
+    "stats": {
+      "species": "Evolution Pokemon",
+      "height": "0.3m",
+      "weight": "6.5kg",
+      "hp": 55,
+      "attack": 55,
+      "defense": 50
+    },
+    "attacks": {
+      "Tackle": {
+        "damage": 40
+      },
+      "Quick Attack": {
+        "damage": 40
+      },
+      "Bite": {
+        "damage": 90
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+* {
+  box-sizing: border-box;
+  overflow-y: visible;
+  overflow-x: visible;
+  margin: 0;
+  padding: 0;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+.app {
+  font-family: "VT323", monospace;
+  background-image: url("./images/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: fit-content;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.navbar {
+  position: relative;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  min-width: 100vh;
+  max-height: fit-content;
+  width: 100%;
+  align-items: center;
+  background-color: black;
+  color: white;
+  opacity: 0.8;
+  border-bottom: 1px solid white;
+}
+.nes-btn {
+  float: right;
+  margin-left: 50px;
+  min-width: fit-content;
+  display: flex;
+  right: 0;
+}
+
+.title {
+  font-size: 60px;
+  left: 0;
+  display: flex;
+}
+
+.links {
+  position: relative;
+  display: flex;
+  text-align: right;
+  justify-content: space-between;
+  min-width: 30%;
+  margin-left: 50px;
+}
+.links h1 {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.telegram {
+  width: 30px;
+  height: 30px;
+}
+
+p {
+  font-size: 23px;
+  font-weight: 900;
+  color: rgb(0, 0, 0);
+}
+
+.mainscreen {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  top: 10%;
+  min-width: fit-content;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.nftbox {
+  white-space: nowrap;
+}
+.nfttitle {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  opacity: 0.8;
+}
+
+.pokeball {
+  max-width: 20%;
+  max-height: 10%;
+  margin-top: 20px;
+}

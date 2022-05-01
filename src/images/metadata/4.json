@@ -1,0 +1,26 @@
+{
+  "name": "Machamp",
+  "description": "Machamp is a very muscled four-armed humanoid with black pants and a triple crest on the top of his head. His lips are very wide and of white colour, and he has lost most of the dinosaur look that Machop and Machoke had.",
+  "image": "ipfs://QmaKrcfPc7ykB7hC6XPBMDNje9riKyHabKdRyBAL2xX8eA/4.png",
+  "properties": {
+    "stats": {
+      "species": "Superpower Pokemon",
+      "height": "1.6m",
+      "weight": "130kg",
+      "hp": 90,
+      "attack": 130,
+      "defense": 80
+    },
+    "attacks": {
+      "Revenge": {
+        "damage": 60
+      },
+      "Dynamic Punch": {
+        "damage": 100
+      },
+      "Cross Chop": {
+        "damage": 100
+      }
+    }
+  }
+}
